@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prashant Tandan"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,9 +23,21 @@ I am always open for opportunities to contribute to innovative projects and coll
 
 Skills Summary
 ==============
-Languages: Python, JavaScript, C++, SQL(Oracle, PostgreSQL, Snowflake, MySQL)
-Data Science and Engineering: Pandas, Tensorflow, Matplotlib, PL/SQL, Apache Airflow, Google Cloud Platform, Robling, Numpy, Tableau
-Web and Mobile Application Development: Django, Flask, React, Flutter
-Developer Tools: Git, VS Code, Shell, Excel, Latex, JIRA, UML
-Interpersonal Skills: Project Management, Classroom Instruction, Leadership, Technical report writing
+* **Programming Languages:**
+Python, JavaScript, C++, SQL
+
+* **Data Science and Engineering:**
+Pandas, Tensorflow, Matplotlib, PL/SQL, Apache Airflow, Google Cloud Platform, Robling, Numpy, Tableau
+
+* **Databases:**
+Oracle, PostgreSQL, Snowflake, MySQL
+
+* **Web and Mobile Application Development:**
+Django, Flask, React, Flutter
+
+* **Developer Tools:**
+Git, VS Code, Shell, Excel, Latex, JIRA, UML
+
+* **Interpersonal Skills:** 
+Project Management, Classroom Instruction, Leadership, Technical Report Writing
 
